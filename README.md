@@ -1,4 +1,4 @@
-<img src="Imagenes/UAMIZT.JFIF"
+<img src="Imagenes/UAMIZT.jfif"
 # Informatica
 ## Calvin Audi Arreguin Ariza
 ### No. 1
