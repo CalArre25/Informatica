@@ -24,3 +24,4 @@ Introducción:
 Software:
 - 2.1 [Conceptos básicos de software](Tarea2.1.md)
 - 2.2 [Sistemas de codificación](Practica2.2.md)
+- 2.3 [Pseudocódigo](Practica2.3.md)
