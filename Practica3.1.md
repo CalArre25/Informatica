@@ -56,66 +56,87 @@ Licencia GPL (URL) y la Free Software Foundation (URL) (Guía): La Licencia Púb
 #### Vea el video Revolución de los Sistemas Operativos o The Code y tome sus notas. Finalmente, compare los tres tipos de software (privativo, abierto y libre) (guía), en términos de ventajas y desventajas y saque sus conclusiones filosóficas, técnicas, económicas, a partir de tres licencias representativas y de las biografías de tres personales: Bill Gates (Microsoft), Eric S. Raymond (OSI) y Richard Stallman (GNU - GLP) (guía). Reflexione sobre el software libre y abierto (FLOSS) como ideología y como negocio.
 
 Comparación de los Tres Tipos de Software:
+
 Software Privativo:
+
 Ventajas:
 
 Ofrece soporte técnico y actualizaciones por parte del proveedor.
 A menudo es considerado más amigable para el usuario promedio.
 Puede tener aplicaciones muy especializadas y de alta calidad.
+
 Desventajas:
 
 No se puede acceder ni modificar el código fuente.
 Los costos pueden ser altos y pueden haber restricciones de uso.
 Dependencia del proveedor para actualizaciones y parches de seguridad.
+
 Software de Código Abierto (Open Source):
+
 Ventajas:
 
 El código fuente está disponible y se puede modificar según las necesidades.
 Comunidad de desarrolladores que contribuyen y mejoran el software.
 Menor costo y mayor flexibilidad en términos de personalización.
+
 Desventajas:
 
 Puede haber menos soporte técnico disponible en comparación con el software privativo.
 Algunas aplicaciones especializadas pueden no estar disponibles.
+
 Software Libre:
+
 Ventajas:
 
 Garantiza libertades fundamentales: usar, estudiar, modificar y distribuir.
 Promueve la filosofía de colaboración y el acceso a la tecnología para todos.
 Puede tener un impacto positivo en la seguridad y la privacidad.
+
 Desventajas:
 
 Puede requerir un mayor nivel de habilidad técnica para implementar y personalizar.
 Algunas aplicaciones específicas pueden no estar tan desarrolladas o no estar disponibles.
+
 Conclusiones Filosóficas, Técnicas y Económicas:
+
 Filosóficas:
 
 El software libre se basa en el principio de la libertad y la comunidad, promoviendo la colaboración y el acceso a la tecnología para todos.
 El software privativo a menudo se centra en la propiedad y el control por parte del proveedor.
+
 Técnicas:
 
 El código abierto y el software libre permiten una mayor flexibilidad y adaptabilidad a las necesidades específicas.
 El software privativo a menudo se preocupa por la estabilidad y la experiencia del usuario.
+
 Económicas:
 
 El software libre y de código abierto puede reducir costos de licencia y proporcionar una alternativa económicamente viable.
 El software privativo puede ofrecer soluciones especializadas, pero a menudo con costos más elevados.
+
 Biografías de Personajes Clave:
+
 Bill Gates (Microsoft):
 
 Fundador de Microsoft, defensor del software propietario y empresario de tecnología influyente. Enfoque en el desarrollo de sistemas operativos como Windows.
+
 Eric S. Raymond (OSI):
 
 Autor del famoso ensayo "La Catedral y el Bazar", defensor del código abierto y co-fundador de la Open Source Initiative (OSI). Promueve el modelo de desarrollo colaborativo.
+
 Richard Stallman (GNU - GPL):
 
 Fundador del proyecto GNU y creador de la Licencia Pública General de GNU (GPL). Ferviente defensor del software libre y las libertades de los usuarios.
+
 Reflexión sobre FLOSS como Ideología y Negocio:
+
 Ideología:
 
 El FLOSS es una ideología que pone énfasis en las libertades y la colaboración. Busca empoderar a los usuarios y promover el acceso abierto a la tecnología.
+
 Negocio:
 
 El FLOSS puede ser un modelo de negocio viable a través de servicios, soporte técnico, personalización y consultoría.
 Empresas como Red Hat y Canonical han demostrado que se puede tener éxito en el mundo del software libre.
+
 En resumen, el debate entre software privativo, código abierto y software libre se centra en la libertad, el control y el acceso a la tecnología. Cada enfoque tiene sus ventajas y desventajas, y la elección depende de las necesidades y valores de los usuarios y las organizaciones.
