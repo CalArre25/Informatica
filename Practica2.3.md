@@ -1,4 +1,5 @@
-PSEUDOCÓDIGO
+PSEUDOCÓDIGO:
+
 Estudie, a discreción, el curso de PSeInt y la guía de PSeInt con ejemplos y pruebe algunos ejemplos. Si lo prefiere, estudie el sistema de información para la operación de un estacionamiento en PSeInt. Descargue el archivo con el código fuente del pseudocódigo, disponible en la descripción de cada uno de ellos y observe el crecimiento progresivo de la aplicación.
 
 Distinga entre el proceso principal y los subprocesos. Para cada subproceso identifique los parámetros o datos de entrada, el pase valores (por valor y por referencia) y el valor de regreso.
