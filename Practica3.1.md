@@ -52,7 +52,6 @@ Ejemplo: El sistema operativo GNU/Linux es un ejemplo de software libre.
 
 Licencia GPL (URL) y la Free Software Foundation (URL) (Guía): La Licencia Pública General de GNU es una licencia de software libre creada por la Free Software Foundation.
 
-Ejemplo: Sitio web de la Free Software Foundation: https://www.fsf.org/
 ----
 #### Vea el video Revolución de los Sistemas Operativos o The Code y tome sus notas. Finalmente, compare los tres tipos de software (privativo, abierto y libre) (guía), en términos de ventajas y desventajas y saque sus conclusiones filosóficas, técnicas, económicas, a partir de tres licencias representativas y de las biografías de tres personales: Bill Gates (Microsoft), Eric S. Raymond (OSI) y Richard Stallman (GNU - GLP) (guía). Reflexione sobre el software libre y abierto (FLOSS) como ideología y como negocio.
 
