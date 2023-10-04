@@ -26,7 +26,7 @@
 - Y me creo el archivo final
  <img src="Imagenes/r5.png" width="50%"/>
 
- <img src="Imagenes/ArchF.PNG" width="50%"/>
+ <img src="Imagenes/r6.PNG" width="50%"/>
 
 ----
 
