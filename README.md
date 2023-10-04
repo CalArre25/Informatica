@@ -28,3 +28,11 @@ Software:
 - 2.4 [Algoritmos](Practica2.4.md)
 - 2.5 [De pseudocódigo a R](Practica2.5.md)
 
+### Unidad 3
+Sistemas operativos:
+- 3.1 [Licenciamiento de software](Practica3.1.md)
+- 3.2 [Instalación de sistemas operativos en un medio extraible](Practica3.2.md)
+- 3.3 [Instalación de sistemas operativos como máquinas virtuales](Practica3.3.md)
+- 3.4 [Particiones y sistemas de archivos](Practica3.4.md)
+- 3.5 [Particiones y sistemas de archivos](Practica3.5.md)
+
