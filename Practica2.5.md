@@ -15,16 +15,16 @@
 #### Luego, repase este tutorial de RMarkdown. Suba el archivo Programacion-en-Pseudocodigo.Rmd al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. Ahora estúdielo como repaso de PSeInt
 
 - Primero intale el packete **Knitr**
- <img src="Imagenes/r2.PNG" width="50%"/>
+ <img src="Imagenes/r2.png" width="50%"/>
  
 - Despues subi el archivo "Programacion-en-Pseudocodigo.Rmd"
- <img src="Imagenes/r3.PNG" width="50%"/>
+ <img src="Imagenes/r3.png" width="50%"/>
  
 - Para convertir el archivo a HTML, use el codigo:
- <img src="Imagenes/r4.PNG" width="50%"/>
+ <img src="Imagenes/r4.png" width="50%"/>
  
 - Y me creo el archivo final
- <img src="Imagenes/Arch.PNG" width="50%"/>
+ <img src="Imagenes/r5.png" width="50%"/>
 
  <img src="Imagenes/ArchF.PNG" width="50%"/>
 
